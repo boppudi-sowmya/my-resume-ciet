@@ -1,0 +1,36 @@
+*{
+    color: crimson;
+    front-style: italic;
+    front-family:"frankin gothic medium";
+}
+
+.main {
+    display:flex;
+
+}
+.left  {
+    width:36%;
+    border:3px solid deeppink;
+    box-shadow:3px 3px 3px darkcyan;
+    margin: 3px;
+}
+img {
+    width: 95%;
+}
+.right {
+   margin:3px;
+   width:65%;
+   border:3px solid blue;
+   box-shadow:3px 3px 3px 3px brown;
+}
+.cr {
+    color: darkblue;
+}
+.skils {
+     background-color: darkslateblue;
+     color: firebrick;
+     border:2px solid deepskyblue;
+     box-shadow: fuchsia;
+     padding:3px;
+     border-radius: 3px;
+}
